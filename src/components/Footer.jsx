@@ -43,25 +43,21 @@ const Footer = () => {
                 </h2>
                 <ul className="ps-0 mt-4 flex flex-col gap-3 ">
                   <li>
-                    {" "}
                     <span className=" cursor-pointer hover:text-[#ed1c24] transition-all ease-out duration-300 text-xs md:text-base text-gray-600">
                       Prices Drop
                     </span>
                   </li>
                   <li>
-                    {" "}
                     <span className=" cursor-pointer hover:text-[#ed1c24] transition-all ease-out duration-300 text-xs md:text-base text-gray-600">
                       New Products
                     </span>
                   </li>
                   <li>
-                    {" "}
                     <span className=" cursor-pointer hover:text-[#ed1c24] transition-all ease-out duration-300 text-xs md:text-base text-gray-600">
                       Best Sales
                     </span>
                   </li>
                   <li>
-                    {" "}
                     <span className=" cursor-pointer hover:text-[#ed1c24] transition-all ease-out duration-300 text-xs md:text-base text-gray-600">
                       Contact us
                     </span>
@@ -72,7 +68,6 @@ const Footer = () => {
                     </span>
                   </li>
                   <li>
-                    {" "}
                     <span className=" cursor-pointer hover:text-[#ed1c24] transition-all ease-out duration-300 text-xs md:text-base text-gray-600">
                       Stores
                     </span>
@@ -85,7 +80,6 @@ const Footer = () => {
                 </h2>
                 <ul className="ps-0 mt-4 flex flex-col gap-3  ">
                   <li>
-                    {" "}
                     <span className=" cursor-pointer hover:text-[#ed1c24] transition-all ease-out duration-300 text-xs md:text-base text-gray-600">
                       Delivery
                     </span>
@@ -96,7 +90,6 @@ const Footer = () => {
                     </span>
                   </li>
                   <li>
-                    {" "}
                     <span className=" cursor-pointer hover:text-[#ed1c24] transition-all ease-out duration-300 text-xs md:text-base text-gray-600">
                       About Us
                     </span>
@@ -108,7 +101,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <span className=" cursor-pointer hover:text-[#ed1c24] transition-all ease-out duration-300 text-xs md:text-base text-gray-600">
-                      Shipping{" "}
+                      Shipping
                     </span>
                   </li>
                   <li>
@@ -131,7 +124,7 @@ const Footer = () => {
                 <input
                   className="w-full outline-none text-xs md:text-base"
                   type="text"
-                  placeholder="Ask or search your question"
+                  placeholder="Your email address"
                 />
                 <button className="border text-xs border-[#ed1c24] px-2 rounded-md text-[#ed1c24] py-1 hover:bg-[#ed1c24] hover:text-white duration-300">
                   Send
