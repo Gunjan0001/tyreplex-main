@@ -539,7 +539,7 @@ const Header = () => {
         </nav>
         <div
           className={` transition-all ease-in-out duration-300 fixed  left-0 w-full z-20 h-screen bg-[#ed1c24] flex justify-center items-center flex-col lg:hidden ${
-            toggle ? "top-0" : "top-[-100%]"
+            toggle ? "top-0" : "top-[-300%]"
           }`}
         >
           <div className="absolute top-0 end-0 p-6">
